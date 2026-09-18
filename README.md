@@ -13,6 +13,8 @@ python3 -m http.server 8000
 
 Then visit http://localhost:8000
 
+or just visit -   https://bhavikpatil15.github.io/food-deals-ui/
+
 Files
 index.html       markup and mount points
 css/style.css    coupon-book theme, ticket shape, animations
